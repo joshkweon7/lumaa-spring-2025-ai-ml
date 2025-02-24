@@ -17,5 +17,8 @@ This program takes in a user's query regarding their preference for a novel and 
 - You will then be prompted to input the desired keywords that describe the books you would like recommended to you 
 - Once your input is given, the program will output the recommended 5 books as well as the similarity score that was calculated in relation to your query! 
 
+## Salary Expectation (Per Month) 
+My salary expectation per month is ~$4,000
+
 ## Sample Demo 
-![](demovideo.mp4)
+https://github.com/user-attachments/assets/021d8866-679a-4306-830f-2fa911215d10
